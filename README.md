@@ -20,7 +20,25 @@
 
 
 ## 五、系統開發工具
-
+| 開發輔助工具      |  |
+| -               | -|
+| 手機規格         | Visual Studio Code   |
+| 資料庫管理工具    | phpMyAdmin           |
+| 版本控制工具      | Git                  |
+| API測試工具      | Postman              |
+| API文件         |  |
+| 文件製作         | Microsoft Word       |
+| 簡報製作         | Microsoft PowerPoint |
+| UML工具         |  Draw.io             |
+| 介面設計工具      | Figma               |
+| 雛型設計         | Figma                |
+| 製圖工具         | Adobe Ai, Ps         |
+| 專案管理工具      | Figma                |
+| 溝通工具         | LINE、Telegram        |
+| 版本控管         | Git                  |
+| 進度追蹤         | Trello               |
+| 影片軟體         | FinalCutPro          |
+| 剪輯軟體         | FinalCutPro          |
 
 ## 六、系統使用環境
 
